@@ -4,7 +4,7 @@
         {
             "feed": "vulnerabilities",
             "feed_group": "debian:10",
-            "fix": "None",
+            "fix": "Na",
             "nvd_data": [
                 {
                     "cvss_v2": {
